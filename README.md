@@ -1,3 +1,5 @@
+www.patika.dev
+
 1. Soru:
 
 En küçük sayı bulunur ve ilk sıradaki sayı ile yer değiştirecek şekilde yazılır. Sıradaki en küçük sayı bulunur ve ikinci sayı ile yer değiştirir. 
